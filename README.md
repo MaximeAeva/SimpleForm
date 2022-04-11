@@ -1,5 +1,5 @@
 ﻿# Simple From
-> A simple way to gather field issues
+> Simple forms I code to automate my workflow
 
 ## Installation
 Windows:
